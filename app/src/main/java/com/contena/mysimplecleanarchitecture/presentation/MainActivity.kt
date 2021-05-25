@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         val factory = MainViewModelFactory.getInstance()
         val viewModel = ViewModelProvider(this, factory)[MainViewModel::class.java]
 
-        viewModel.setName("Contena")
+        viewModel.setName("dico")
         viewModel.message.observe(this, {
             binding.tvWelcome.text = it.welcomeMessage
         })
