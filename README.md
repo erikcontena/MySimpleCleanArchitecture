@@ -1,1 +1,1 @@
-[![<erikcontena>](https://circleci.com/gh/erikcontena/MySimpleCleanArchitecture.svg?style=svg)](https://circleci.com/gh/erikcontena/MySimpleCleanArchitecture)
+[![<erikcontena>](https://circleci.com/gh/erikcontena/MySimpleCleanArchitecture.svg?style=shield)](https://circleci.com/gh/erikcontena/MySimpleCleanArchitecture)
